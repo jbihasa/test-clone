@@ -1,3 +1,4 @@
 var a = {
-    "a": "sdsd"
+    "a": "sdsd",
+    "b": "b"
 }
